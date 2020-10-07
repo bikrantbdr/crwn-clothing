@@ -3,6 +3,10 @@
     display: flex;
     flex-direction: column;
 
+    .title{
+        padding-top :20px;
+    }
+
     .buttons{
         display: flex;
         justify-content: space-between;
