@@ -8,8 +8,9 @@
   
     .logo-container {
       height: 100%;
-      width: 70px;
+      width: 90px;
       padding: 25px;
+      box-sizing: initial;
     }
   
     .options {
@@ -21,6 +22,7 @@
   
       .option {
         padding: 10px 15px;
+        cursor: pointer;
       }
     }
   }
